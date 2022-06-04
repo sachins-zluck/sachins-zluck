@@ -8,7 +8,7 @@ Love's to explore new trends and technologies.
 
 * 🌍  I'm based in Gujrat,India.
 * 🚀  I'm currently working on [Flutter](http://flutter.dev/)
-* 🧠  I'm learning DAPPS.
+* 🧠  I'm learning about DAPPS.
 
 ### Skills
 
