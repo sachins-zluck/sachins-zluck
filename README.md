@@ -19,3 +19,4 @@ Love's to explore new trends and technologies.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+<a href="https://app.daily.dev/sachinreads"><img src="https://api.daily.dev/devcards/a337f8655d4242758d6a58dba9d48f48.png?r=052" width="400" alt="Sachin Singh's Dev Card"/></a>
